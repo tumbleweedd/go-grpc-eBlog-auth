@@ -1,0 +1,7 @@
+PORT: ":50051"
+HOST: "localhost"
+DB_PORT: "5432"
+USERNAME: "postgres"
+PASSWORD: "gaga565"
+DB_NAME: "eBlog_auth"
+SSL_MODE: "disable"
