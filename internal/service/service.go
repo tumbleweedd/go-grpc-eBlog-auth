@@ -2,8 +2,8 @@ package service
 
 import (
 	"context"
+	"github.com/tumbleweedd/grpc-eBlog/grpc-eBlog-auth/internal/repository"
 	"github.com/tumbleweedd/grpc-eBlog/grpc-eBlog-auth/pb"
-	"github.com/tumbleweedd/grpc-eBlog/grpc-eBlog-auth/pkg/repository"
 )
 
 type Authorization interface {

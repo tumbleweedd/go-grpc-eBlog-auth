@@ -2,7 +2,7 @@ package repository
 
 import (
 	"github.com/jmoiron/sqlx"
-	"github.com/tumbleweedd/grpc-eBlog/grpc-eBlog-auth/models"
+	"github.com/tumbleweedd/grpc-eBlog/grpc-eBlog-auth/internal/models"
 )
 
 type Authorization interface {
