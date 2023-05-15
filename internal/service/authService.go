@@ -7,7 +7,7 @@ import (
 	"github.com/golang-jwt/jwt"
 	"github.com/tumbleweedd/grpc-eBlog/grpc-eBlog-auth/internal/models"
 	"github.com/tumbleweedd/grpc-eBlog/grpc-eBlog-auth/internal/repository"
-	"github.com/tumbleweedd/grpc-eBlog/grpc-eBlog-auth/pb"
+	"github.com/tumbleweedd/grpc-eBlog/grpc-eBlog-auth/pkg/pb"
 	"github.com/tumbleweedd/grpc-eBlog/grpc-eBlog-auth/pkg/utils"
 	"net/http"
 	"time"

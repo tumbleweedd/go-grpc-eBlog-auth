@@ -5,7 +5,7 @@ import (
 	"github.com/spf13/viper"
 	repository2 "github.com/tumbleweedd/grpc-eBlog/grpc-eBlog-auth/internal/repository"
 	"github.com/tumbleweedd/grpc-eBlog/grpc-eBlog-auth/internal/service"
-	"github.com/tumbleweedd/grpc-eBlog/grpc-eBlog-auth/pb"
+	"github.com/tumbleweedd/grpc-eBlog/grpc-eBlog-auth/pkg/pb"
 	"google.golang.org/grpc"
 	"log"
 	"net"
